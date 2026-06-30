@@ -37,7 +37,7 @@ CLASS_NAMES = [
 
 # 2. CONFIGURACIÓN Y DESCARGA AUTOMÁTICA DEL MODELO DESDE TU LINK DE DRIVE
 MODEL_PATH = "plant_disease_mobilenet_v3_final.pt"
-DRIVE_FILE_ID = "1g8Cv2-uX_ixbOMtIi6ncNFTVb89suGpA" # 🎯 Tu ID de archivo vinculado con éxito
+DRIVE_FILE_ID = "1CxC3I_A4dpYD7wCVtb7nscjSVDSlvdBw" # 🎯 Tu ID de archivo vinculado con éxito
 
 def download_file_from_google_drive(file_id, destination):
     URL = "https://docs.google.com/uc?export=download"
