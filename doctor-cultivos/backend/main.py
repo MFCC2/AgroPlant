@@ -35,7 +35,7 @@ app.add_middleware(
 )
 
 # ─── Config ────────────────────────────────────────────────────────
-GOOGLE_DRIVE_FILE_ID = "1g8Cv2-uX_ixbOMtIi6ncNFTVb89suGpA"
+GOOGLE_DRIVE_FILE_ID = "1CxC3I_A4dpYD7wCVtb7nscjSVDSlvdBw"
 MODEL_PATH = Path("plant_disease_mobilenet_v3_final.pt")
 
 # ─── 38 Clases PlantVillage (orden estándar) ───────────────────────
