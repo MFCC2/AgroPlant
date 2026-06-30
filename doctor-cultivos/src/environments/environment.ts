@@ -1,3 +1,3 @@
 export const environment = {
-  groqApiKey: 'AQUI_VA_TU_API_KEY_DE_GROQ',
+  groqApiKey: ''gsk_cUVrmtC5fW1lyY76h8lxWGdyb3FYalnFM6AFcPVoyCOrc2yi8hp',
 };
